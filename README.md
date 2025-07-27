@@ -1,27 +1,18 @@
-# Mikrotik Dashboard
+# dotworking
 
-Dashboard ligero para monitorear y visualizar el estado de dispositivos MikroTik en tiempo real, basado en HTML + scripts personalizados.
+🔬 Investigación y desarrollo de software orientado a soluciones prácticas, seguras y automatizadas.
 
-## 📌 Características
+## 📌 Enfoque
 
-- 🔍 Monitoreo del estado de red, IP y VPN
-- 🧠 Integración con scripts de consulta vía API MikroTik
-- 📈 Visualización en dashboard HTML con íconos personalizados
-- 🚨 Alertas por Telegram (opcional)
-- 📦 Fácil despliegue en Docker o servidor local
+- Automatización de procesos con scripts eficientes
+- Integración de herramientas de monitoreo y visualización
+- Desarrollo en entornos virtualizados y en contenedores
+- Seguridad, conectividad y confiabilidad como pilares
 
-## ⚙️ Requisitos
+## ⚙️ Tecnologías
 
-- Dispositivo MikroTik con acceso API habilitado
-- Servidor Linux con Python 3 y cron
-- HTML5 compatible (para dashboard visual)
-- Acceso a red interna o VPN hacia el router
+Docker · Python · HTML · Linux · MikroTik · OpenWrt · Proxmox · Apache · systemd · cron
 
-## 🚀 Instalación
+---
 
-```bash
-git clone https://github.com/dotworking/mikrotik-dashboard.git
-cd mikrotik-dashboard
-# Ejecutar script principal o configurar en cron
-python3 monitor.py
-
+🎯 Soluciones simples para sistemas complejos.
